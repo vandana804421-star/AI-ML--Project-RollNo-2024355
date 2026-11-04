@@ -281,3 +281,5 @@ jupyter notebook Notebook/titanic_survival_prediction.ipynb
 - [x] Additional requirement completed: Explained factors increasing and decreasing survival chances connected to Titanic history.
 - [x] Formatted Jupyter Notebook generated with executed outputs.
 - [x] Standard folder structure implemented and comprehensive `README.md` created.
+# AI-ML--Project-RollNo-2024355
+TITANIC SURVIVAL PRIDICTION USING MACHINE LEARNING
